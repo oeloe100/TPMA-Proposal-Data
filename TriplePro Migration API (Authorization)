@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2020-08-28T08:22:20.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="4Lbl5d1KMl61FwgS2Ea4" version="13.6.5" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="56" value="TriplePro Migration API" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" parent="1" vertex="1">
+          <mxGeometry x="154" y="827" width="1016" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="v 1.0" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="154" y="850.5" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="68" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="154" y="930.5" width="1016" height="629.5" as="geometry" />
+        </mxCell>
+        <mxCell id="140" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="244" y="890.5" width="926" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="141" value="OAuth2 Authorization &amp;amp; Application Login" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="140" vertex="1">
+          <mxGeometry width="925.9985245144127" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-164" target="Vo78NG-b2OAH4mDvwk-F-238" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-164" target="Vo78NG-b2OAH4mDvwk-F-235" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-164" value="Triple Pro Migration API Login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
+          <mxGeometry x="550" y="975" width="182" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-221" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="154" y="1520" width="1016" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-222" value="" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="Vo78NG-b2OAH4mDvwk-F-221" vertex="1">
+          <mxGeometry width="1015.9983811086861" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-223" target="Vo78NG-b2OAH4mDvwk-F-164" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-223" value="Authorization&lt;br&gt;Password&amp;nbsp;&lt;br&gt;Grant Type" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="970" y="975" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-235" target="Vo78NG-b2OAH4mDvwk-F-164" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-235" target="Vo78NG-b2OAH4mDvwk-F-245" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.65;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-235" target="Vo78NG-b2OAH4mDvwk-F-247" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-235" target="Vo78NG-b2OAH4mDvwk-F-259" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-235" value="Start Loading&lt;br&gt;Homepage&lt;br&gt;(SPA)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="230" y="975" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-238" target="Vo78NG-b2OAH4mDvwk-F-223" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-238" value="Login" style="shape=manualInput;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=#99CCFF;" parent="1" vertex="1">
+          <mxGeometry x="820" y="968" width="80" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-245" target="Vo78NG-b2OAH4mDvwk-F-247" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-245" value="WooCommerce&lt;br&gt;Authorization&lt;br&gt;Code Grant" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-247" value="WooCom&lt;br&gt;Recources" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="220" y="1070" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.57;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-259" target="Vo78NG-b2OAH4mDvwk-F-263" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-259" value="Afosto&lt;br&gt;Authorization&lt;br&gt;Code Grant" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.891;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Vo78NG-b2OAH4mDvwk-F-263" target="Vo78NG-b2OAH4mDvwk-F-235" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vo78NG-b2OAH4mDvwk-F-263" value="Afosto&lt;br&gt;Recources" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="410" y="1070" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
